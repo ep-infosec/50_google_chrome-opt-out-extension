@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "बहिष्कृत केलेले: माझ्या निवडी रद्द केलेल्या ठेवा",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "महत्त्वाचे अद्यतन",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "$name$ विस्थापित करा",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "श्रेणीसुधारित कसे करावे त्याविषयी अधिक जाणून घ्‍या",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "माझ्या निवडी रद्द केलेल्या ठेवा",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ 14 दिवसांमध्‍ये काढले जाईल.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ लवकरच काढले जाईल.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

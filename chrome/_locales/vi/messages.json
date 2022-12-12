@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "KHÔNG DÙNG NỮA: Giữ tùy chọn không tham gia của tôi",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Cập nhật quan trọng",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "Gỡ cài đặt $name$",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "Tìm hiểu thêm về cách nâng cấp",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Giữ tùy chọn không tham gia của tôi",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ sẽ bị xóa sau 14 ngày.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ sẽ sớm bị xóa.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

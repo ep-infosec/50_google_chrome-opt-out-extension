@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "KULLANIMDAN KALDIRILDI: Reklam Kişiselleştirmesini Engelle",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Önemli Güncelleme",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "$name$ uzantısının yüklemesini kaldır",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "Yeni sürüme nasıl geçeceğinizle ilgili daha fazla bilgi edinin",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Reklam Kişiselleştirmesini Engelle",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ uzantısı 14 gün içinde kaldırılacaktır.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ uzantısı kısa süre içinde kaldırılacaktır.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

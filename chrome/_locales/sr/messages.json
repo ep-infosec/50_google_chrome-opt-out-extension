@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "ЗАСТАРЕЛО: Задржи моја онемогућавања",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Важно обавештење",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "Деинсталирај $name$",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "Сазнајте више о томе како да обавите надоградњу",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Задржи моја онемогућавања",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "За 14 дана ћемо уклонити $name$.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "Ускоро ћемо уклонити $name$.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

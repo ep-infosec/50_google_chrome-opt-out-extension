@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "TÁMOGATÁS MEGSZÜNTETÉSE: Leiratkozástár",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Fontos frissítés",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "A(z) $name$ eltávolítása",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "További információ a frissítés módjáról",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Leiratkozástár",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "A(z) $name$ 14 napon belül eltávolításra kerül.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "A(z) $name$ eltávolítása hamarosan megtörténik.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

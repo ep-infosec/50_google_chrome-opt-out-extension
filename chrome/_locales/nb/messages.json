@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "AVVIKLET: Behold mine bortvalg",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Viktig oppdatering",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "Avinstaller $$name$$",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "Finn ut mer om hvordan du oppgraderer",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Behold mine bortvalg",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ blir fjernet om 14 dager.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ blir fjernet om kort tid.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

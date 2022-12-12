@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "ತಡೆಹಿಡಿಯಲಾಗಿದೆ: ನನ್ನ ಆಯ್ಕೆಗಳಿಂದ ಹೊರಗಿರಿಸು",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "ಪ್ರಮುಖ ಅಪ್‌ಡೇಟ್",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "$name$ ಅಸ್ಥಾಪಿಸು",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "ಅಪ್‌ಗ್ರೇಡ್ ಮಾಡುವ ಕುರಿತು ಇನ್ನಷ್ಟು ತಿಳಿಯಿರಿ",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "ನನ್ನ ಆಯ್ಕೆಗಳಿಂದ ಹೊರಗಿರಿಸು",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ ಅನ್ನು 14 ದಿನಗಳಲ್ಲಿ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ ಅನ್ನು ಶೀಘ್ರದಲ್ಲೇ ತೆಗೆದುಹಾಕಲಾಗುತ್ತದೆ.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

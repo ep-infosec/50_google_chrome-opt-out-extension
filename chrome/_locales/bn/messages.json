@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "থামানো হয়েছে: আমাকে ছেড়ে রাখুন",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "গুরুত্বপূর্ণ আপডেট",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "$name$ আনইনস্টল করুন",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "আপগ্রেড করার পদ্ধতি সম্পর্কে আরো জানুন",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "আমাকে ছেড়ে রাখুন",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "$name$ ১৪ দিনের মধ্যে সরানো হবে।",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "$name$ খুব শীঘ্রই সরানো হবে।",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

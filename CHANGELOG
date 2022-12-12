@@ -1,0 +1,55 @@
+Changelog
+=========
+
+2011-10-21
+----------
+
+*   Updating to the most recent version of the registry (which now lives
+    at http://www.aboutads.info/resource/OOP/Registry.json)
+
+*   Adding `content_security_policy` to the Chrome extension to mitigate
+    the risk of privilege leakage via XSS.
+
+2011-09-16
+----------
+
+Initial import of v1.0.13 for Firefox 3+ and Internet Explorer 6+
+
+2011-07-29
+----------
+
+Built v1.0.13, which makes the following changes:
+
+*   No longer removes all cookies from hosts which have opt-out cookies on
+    startup. The extension continues to properly set and maintain opt-out
+    cookies, but ignores non-opt-out cookies completely.
+
+*   Updates to the latest version of the DAA registry.
+
+2011-03-18
+----------
+
+Built v1.0.11, which makes the following changes:
+
+*   Localizes the extension's description into lots and lots of languages.
+
+*   Updates to version 6 of the NAI registry, adding AppNexus, Magnetic, and
+    bumping Microsoft and Media6Degrees with new data.
+
+2011-01-25
+----------
+
+Released v1.0.10, which makes the following changes:
+
+*   Prepares for localization of the extension description and title (still
+    English-only right now).
+
+*   Whitelists non-opt-out cookies from `.yahoo.com` to work around an
+    accidental logout on browser start.  I'm not happy with this as a final
+    solution, but it'll do until I have more time to investigate why simply
+    whitelisting the `B` cookie isn't enough.
+
+2011-01-24
+----------
+
+First public release: v1.0.9.

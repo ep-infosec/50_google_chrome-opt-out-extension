@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "UKONČENÍ PODPORY: Zachovat odhlášení",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "Důležité oznámení",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "Odinstalovat rozšíření $name$",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "Další informace o postupu upgradování",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "Zachovat odhlášení",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "Rozšíření $name$ bude za 14 dní odstraněno.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "Rozšíření $name$ bude brzy odstraněno.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}

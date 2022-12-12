@@ -1,0 +1,48 @@
+{
+  "extension_name": {
+    "message": "தடுக்கப்பட்டது: எனது விலகல்களை வைத்திரு",
+    "description": "The extension's name."
+  },
+  "extension_description": {
+    "message": "முக்கிய அறிவிப்பு",
+    "description": "The extension's short description that appears on the web store and `chrome://extensions`"
+  },
+  "uninstall_button": {
+    "message": "$name$ஐ நிறுவல் நீக்கு",
+    "description": "The label of a button that uninstalls the extension.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "learnmore": {
+    "message": "மேம்படுத்துவது பற்றி மேலும் அறிக",
+    "description": "Link text for the deprecation notification."
+  },
+  "kmoo": {
+    "message": "எனது விலகல்களை வைத்திரு",
+    "description": "The title of the extension (without 'DEPRECATED')"
+  },
+  "message0": {
+    "message": "14 நாட்களில் $name$ அகற்றப்படும்.",
+    "description": "Body of the first deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  },
+  "message1": {
+    "message": "விரைவில் $name$ அகற்றப்படும்.",
+    "description": "Body of the second deprecation message.",
+    "placeholders": {
+      "name": {
+        "content": "$1",
+        "example": "Keep My Opt-Outs"
+      }
+    }
+  }
+}
